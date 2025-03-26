@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\seedwork\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\seedwork\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\domain\\validation\\domainvalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\domain\\validation\\domainvalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\exceptions\\entityvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\exceptions\\entityvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\common\\basefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\common\\basefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 53,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:17:24.424Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryTest.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAqwBkBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:19:00Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomainValidation.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Validation\\DomainValidation.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Validation\\DomainValidation.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Validation\\DomainValidation.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Validation\\DomainValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:31:42.384Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DomainValidationTest.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Validation\\DomainValidationTest.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Domain\\Validation\\DomainValidationTest.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Validation\\DomainValidationTest.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Domain\\Validation\\DomainValidationTest.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAqwHkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:20:43.802Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseFixture.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:30:58.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryTestFixture.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:51:56.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:01:40.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:00:16.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityValidationException.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:23:56.416Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
