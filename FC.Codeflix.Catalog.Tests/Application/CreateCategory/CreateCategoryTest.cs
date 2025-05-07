@@ -6,8 +6,16 @@ using UseCases = FC.Codeflix.Catalog.Application.UseCases.Category.CreateCategor
 
 namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
 {
+    [Collection(nameof(CreateCategoryTestFixture))] // Definição da fixture usada nessa classe de testes
     public class CreateCategoryTest
     {
+        private readonly CreateCategoryTestFixture _fixture;
+
+        public CreateCategoryTest(CreateCategoryTestFixture fixture)
+        {
+            _fixture = fixture;
+        }
+
         // Aqui nos testes da UseCase, o teste não vai ser tão detalhado para cada entrada de Category,
         // por exemplo, nome usado, descrição, data de criação, tamanho de string, range da data etc.
         // Como isso já foi testado na entidade Category, aqui o foco é mais na operação executada pelo
@@ -18,18 +26,15 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
         public async void CreateCategory()
         {
             // Arrange
-            var repositoryMock = new Mock<ICategoryRepository>();
-            var unityOfWorkMock = new Mock<IUnityOfWork>();
+            var repositoryMock = _fixture.GetRepositoryMock();
+            var unityOfWorkMock = _fixture.GetUnityOfWorkMock();
+
             var useCase = new UseCases.CreateCategory(
                 repositoryMock.Object,
                 unityOfWorkMock.Object
             );
 
-            var input = new UseCases.CreateCategoryInput(
-                "Category Name",
-                "Category Description",
-                true
-            );
+            var input = _fixture.GetInput();
 
             // Act
             // A ideia de passar o CancellationToken é uma boa prática de se usar quando chamamos métodos assíncronos.
@@ -58,9 +63,9 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             );
 
             Assert.NotNull(output);
-            Assert.Equal("Category Name", output.Name);
-            Assert.Equal("Category Description", output.Description);
-            Assert.True(output.IsActive);
+            Assert.Equal(input.Name, output.Name);
+            Assert.Equal(input.Description, output.Description);
+            Assert.Equal(input.IsActive, output.IsActive);
             Assert.True(output.Id != Guid.Empty);
             Assert.True(output.CreatedAt != default(DateTime));
         }

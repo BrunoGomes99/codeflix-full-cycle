@@ -99,8 +99,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:17:24.424Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -139,73 +138,7 @@
               "ViewState": "AgIAAIsAAAAAAAAAAAAqwHkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:20:43.802Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateCategory.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:07:14.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICreateCategory.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:04:17.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateCategoryOutput.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:46:58.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateCategoryInput.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:39:43.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FC.Codeflix.Catalog.Application",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T13:39:15.129Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -397,6 +330,66 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCategory.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:07:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICreateCategory.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:04:17.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCategoryOutput.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:46:58.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCategoryInput.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:39:43.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FC.Codeflix.Catalog.Application.csproj",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T13:39:15.129Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IUnityOfWork.cs",
               "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\Interfaces\\IUnityOfWork.cs",
@@ -405,8 +398,7 @@
               "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\Interfaces\\IUnityOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:54:08.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T17:54:08.948Z"
             },
             {
               "$type": "Document",
@@ -418,8 +410,7 @@
               "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:50:54.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T18:50:54.303Z"
             },
             {
               "$type": "Document",
@@ -431,8 +422,7 @@
               "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:46:53.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T18:46:53.444Z"
             },
             {
               "$type": "Document",
@@ -444,8 +434,7 @@
               "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:14:12.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T18:14:12.113Z"
             },
             {
               "$type": "Document",
