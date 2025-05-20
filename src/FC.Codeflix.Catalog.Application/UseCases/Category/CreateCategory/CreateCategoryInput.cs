@@ -1,6 +1,8 @@
-﻿namespace FC.Codeflix.Catalog.Application.UseCases.Category.CreateCategory
+﻿using MediatR;
+
+namespace FC.Codeflix.Catalog.Application.UseCases.Category.CreateCategory
 {
-    public class CreateCategoryInput
+    public class CreateCategoryInput : IRequest<CreateCategoryOutput>
     {
         // Esta classe é um DTO
         public CreateCategoryInput(string name, string? description = null, bool isActive = true)

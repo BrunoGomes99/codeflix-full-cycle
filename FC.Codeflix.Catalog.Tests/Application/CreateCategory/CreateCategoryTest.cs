@@ -1,6 +1,6 @@
-﻿using FC.Codeflix.Catalog.Application.Interfaces;
+﻿using FC.Codeflix.Catalog.Application.UseCases.Category.CreateCategory;
 using FC.Codeflix.Catalog.Domain.Entity;
-using FC.Codeflix.Catalog.Domain.Repository;
+using FC.Codeflix.Catalog.Domain.Exceptions;
 using Moq;
 using UseCases = FC.Codeflix.Catalog.Application.UseCases.Category.CreateCategory;
 
@@ -68,6 +68,118 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             Assert.Equal(input.IsActive, output.IsActive);
             Assert.True(output.Id != Guid.Empty);
             Assert.True(output.CreatedAt != default(DateTime));
+        }
+
+        [Fact(DisplayName = nameof(CreateCategoryWithOnlyNameAndDescription))]
+        [Trait("Application", "CreateCategory - Use Cases")]
+        public async void CreateCategoryWithOnlyNameAndDescription()
+        {
+            // Arrange
+            var repositoryMock = _fixture.GetRepositoryMock();
+            var unityOfWorkMock = _fixture.GetUnityOfWorkMock();
+
+            var useCase = new UseCases.CreateCategory(
+                repositoryMock.Object,
+                unityOfWorkMock.Object
+            );
+
+            var input = new CreateCategoryInput(
+                _fixture.GetValidCategoryName(),
+                _fixture.GetValidCategoryDescription()
+            );
+
+            // Act
+            var output = await useCase.Handle(input, CancellationToken.None);
+
+            // Assert
+            repositoryMock.Verify(
+                repository => repository.Insert(
+                    It.IsAny<Category>(),
+                    It.IsAny<CancellationToken>()
+                ),
+                Times.Once
+            );
+
+            unityOfWorkMock.Verify(
+                unitOfWork => unitOfWork.Commit(
+                    It.IsAny<CancellationToken>()
+                ),
+                Times.Once
+            );
+
+            Assert.NotNull(output);
+            Assert.Equal(input.Name, output.Name);
+            Assert.Equal(input.Description, output.Description);
+            Assert.True(output.IsActive);
+            Assert.True(output.Id != Guid.Empty);
+            Assert.True(output.CreatedAt != default(DateTime));
+        }
+
+        [Fact(DisplayName = nameof(CreateCategoryWithOnlyName))]
+        [Trait("Application", "CreateCategory - Use Cases")]
+        public async void CreateCategoryWithOnlyName()
+        {
+            // Arrange
+            var repositoryMock = _fixture.GetRepositoryMock();
+            var unityOfWorkMock = _fixture.GetUnityOfWorkMock();
+
+            var useCase = new UseCases.CreateCategory(
+                repositoryMock.Object,
+                unityOfWorkMock.Object
+            );
+
+            var input = new CreateCategoryInput(
+                _fixture.GetValidCategoryName()
+            );
+
+            // Act
+            var output = await useCase.Handle(input, CancellationToken.None);
+
+            // Assert
+            repositoryMock.Verify(
+                repository => repository.Insert(
+                    It.IsAny<Category>(),
+                    It.IsAny<CancellationToken>()
+                ),
+                Times.Once
+            );
+
+            unityOfWorkMock.Verify(
+                unitOfWork => unitOfWork.Commit(
+                    It.IsAny<CancellationToken>()
+                ),
+                Times.Once
+            );
+
+            Assert.NotNull(output);
+            Assert.Equal(input.Name, output.Name);
+            Assert.Equal(string.Empty, output.Description);
+            Assert.True(output.IsActive);
+            Assert.True(output.Id != Guid.Empty);
+            Assert.True(output.CreatedAt != default(DateTime));
+        }
+
+        [Theory(DisplayName = nameof(ThrowWhenCantInstantiateCategory))]
+        [Trait("Application", "CreateCategory - Use Cases")]
+        [MemberData(
+            nameof(CreateCategoryTestDataGenerator.GetInvalidInputs),
+            parameters: 24,
+            MemberType = typeof(CreateCategoryTestDataGenerator)
+        )]
+        public async void ThrowWhenCantInstantiateCategory(CreateCategoryInput input, string exceptionMessage)
+        {
+            // Arrange
+            var useCase = new UseCases.CreateCategory(
+                _fixture.GetRepositoryMock().Object,
+                _fixture.GetUnityOfWorkMock().Object
+            );
+
+            // Act
+            Func<Task> task = async () => await useCase.Handle(input, CancellationToken.None);
+
+            // Assert
+            var exception = await Assert.ThrowsAsync<EntityValidationException>(task);
+            Assert.Equal(exceptionMessage, exception.Message);
         }
     }
 }
