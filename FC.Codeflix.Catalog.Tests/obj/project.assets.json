@@ -50,6 +50,19 @@
           }
         }
       },
+      "FluentValidation/12.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "MediatR/12.5.0": {
         "type": "package",
         "dependencies": {
@@ -1840,6 +1853,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "FC.Codeflix.Catalog.Domain": "1.0.0",
+          "FluentValidation": "12.0.0",
           "MediatR": "12.5.0"
         },
         "compile": {
@@ -1983,6 +1997,21 @@
         "lib/netstandard2.1/FluentAssertions.dll",
         "lib/netstandard2.1/FluentAssertions.pdb",
         "lib/netstandard2.1/FluentAssertions.xml"
+      ]
+    },
+    "FluentValidation/12.0.0": {
+      "sha512": "8NVLxtMUXynRHJIX3Hn1ACovaqZIJASufXIIFkD0EUbcd5PmMsL1xUD5h548gCezJ5BzlITaR9CAMrGe29aWpA==",
+      "type": "package",
+      "path": "fluentvalidation/12.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.12.0.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml"
       ]
     },
     "MediatR/12.5.0": {
@@ -5854,23 +5883,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bruno\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
+      "projectUniqueName": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
       "projectName": "FC.Codeflix.Catalog.UnitTests",
-      "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\obj\\",
+      "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5885,11 +5914,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj": {
-              "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj"
+            "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj": {
+              "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj"
             },
-            "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
-              "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj"
+            "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
+              "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj"
             }
           }
         }
@@ -5904,7 +5933,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -5955,7 +5984,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

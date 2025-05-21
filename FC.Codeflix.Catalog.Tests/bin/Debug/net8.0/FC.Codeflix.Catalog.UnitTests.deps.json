@@ -50,6 +50,14 @@
           }
         }
       },
+      "FluentValidation/12.0.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      },
       "MediatR/12.5.0": {
         "dependencies": {
           "MediatR.Contracts": "2.0.1",
@@ -1116,6 +1124,7 @@
       "FC.Codeflix.Catalog.Application/1.0.0": {
         "dependencies": {
           "FC.Codeflix.Catalog.Domain": "1.0.0",
+          "FluentValidation": "12.0.0",
           "MediatR": "12.5.0"
         },
         "runtime": {
@@ -1168,6 +1177,13 @@
       "sha512": "sha512-Gh4jkECcrR0i17ofCVqsiVz2+lxC+p5TYFPCrbZFi7eQQWGEZhvCDwvhycBKX1Kmtbd+H2CW/ugW7wdH9Br9NQ==",
       "path": "fluentassertions/8.2.0",
       "hashPath": "fluentassertions.8.2.0.nupkg.sha512"
+    },
+    "FluentValidation/12.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8NVLxtMUXynRHJIX3Hn1ACovaqZIJASufXIIFkD0EUbcd5PmMsL1xUD5h548gCezJ5BzlITaR9CAMrGe29aWpA==",
+      "path": "fluentvalidation/12.0.0",
+      "hashPath": "fluentvalidation.12.0.0.nupkg.sha512"
     },
     "MediatR/12.5.0": {
       "type": "package",

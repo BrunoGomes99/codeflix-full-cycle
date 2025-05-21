@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj": {}
+    "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj": {}
   },
   "projects": {
-    "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj": {
+    "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
+        "projectUniqueName": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
         "projectName": "FC.Codeflix.Catalog.UnitTests",
-        "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\obj\\",
+        "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\FC.Codeflix.Catalog.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj": {
-                "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj"
+              "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj": {
+                "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj"
               },
-              "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
-                "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj"
+              "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
+                "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -102,24 +102,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj": {
+    "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
+        "projectUniqueName": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
         "projectName": "FC.Codeflix.Catalog.Application",
-        "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\obj\\",
+        "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -134,8 +134,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
-                "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj"
+              "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
+                "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj"
               }
             }
           }
@@ -150,12 +150,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.5.0, )"
@@ -177,24 +181,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
+    "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj",
+        "projectUniqueName": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj",
         "projectName": "FC.Codeflix.Catalog.Domain",
-        "projectPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj",
-        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\obj\\",
+        "projectPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Meus Documentos\\Estudos\\.NET\\codeflix-full-cycle\\src\\FC.Codeflix.Catalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -221,7 +225,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -242,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
