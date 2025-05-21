@@ -110,3 +110,6 @@ D:\Meus Documentos\Estudos .NET\CodeFlix\FC.Codeflix.Catalog\FC.Codeflix.Catalog
 D:\Meus Documentos\Estudos .NET\CodeFlix\FC.Codeflix.Catalog\FC.Codeflix.Catalog.Tests\bin\Debug\net8.0\FC.Codeflix.Catalog.Application.dll
 D:\Meus Documentos\Estudos .NET\CodeFlix\FC.Codeflix.Catalog\FC.Codeflix.Catalog.Tests\bin\Debug\net8.0\FC.Codeflix.Catalog.Application.pdb
 D:\Meus Documentos\Estudos .NET\CodeFlix\FC.Codeflix.Catalog\FC.Codeflix.Catalog.Tests\obj\Debug\net8.0\FC.Codeflix.Catalog.UnitTests.sourcelink.json
+D:\Meus Documentos\Estudos .NET\CodeFlix\FC.Codeflix.Catalog\FC.Codeflix.Catalog.Tests\bin\Debug\net8.0\MediatR.dll
+D:\Meus Documentos\Estudos .NET\CodeFlix\FC.Codeflix.Catalog\FC.Codeflix.Catalog.Tests\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Meus Documentos\Estudos .NET\CodeFlix\FC.Codeflix.Catalog\FC.Codeflix.Catalog.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

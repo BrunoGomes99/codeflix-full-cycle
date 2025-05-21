@@ -3,80 +3,84 @@
   "WorkspaceRootPath": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\seedwork\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\seedwork\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\getcategory\\getcategoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\getcategory\\getcategoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\fc.codeflix.catalog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\fc.codeflix.catalog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\getcategory\\getcategoryoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\getcategory\\getcategoryoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\interfaces\\iunityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\interfaces\\iunityofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\getcategory\\getcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\getcategory\\getcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\icreatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\icreatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\application\\getcategory\\getcategorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\application\\getcategory\\getcategorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategoryoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategoryoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\domain\\validation\\domainvalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\domain\\validation\\domainvalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\exceptions\\entityvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\exceptions\\entityvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\seedwork\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\seedwork\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\seedwork\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\application\\getcategory\\getcategorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\application\\getcategory\\getcategorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\domain\\entity\\category\\categorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytestdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytestdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\application\\createcategory\\createcategorytestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\common\\basefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\common\\basefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\icreatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F246093F-56E1-417B-80A3-353C2D5B18B9}|src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj|solutionrelative:src\\fc.codeflix.catalog.application\\usecases\\category\\createcategory\\icreatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\fc.codeflix.catalog.tests\\domain\\validation\\domainvalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74FE700-524A-4458-A96D-D3290A712035}|FC.Codeflix.Catalog.Tests\\FC.Codeflix.Catalog.UnitTests.csproj|solutionrelative:fc.codeflix.catalog.tests\\domain\\validation\\domainvalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|d:\\meus documentos\\estudos .net\\codeflix\\fc.codeflix.catalog\\src\\fc.codeflix.catalog.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF0463E-4B91-48CD-8950-6BF8EF872EC5}|src\\FC.Codeflix.Catalog.Domain\\FC.Codeflix.Catalog.Domain.csproj|solutionrelative:src\\fc.codeflix.catalog.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,37 +90,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 60,
+          "SelectedChildIndex": 63,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
               "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
               "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Entity\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:17:24.424Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoryTest.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
-              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
-              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:19:00Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "DomainValidation.cs",
               "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Validation\\DomainValidation.cs",
               "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Validation\\DomainValidation.cs",
@@ -129,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "DomainValidationTest.cs",
               "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Validation\\DomainValidationTest.cs",
               "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Domain\\Validation\\DomainValidationTest.cs",
@@ -139,6 +130,97 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T19:20:43.802Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryTest.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTest.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:19:00Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCategoryTest.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowDsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:47:10.869Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCategoryTestDataGenerator.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestDataGenerator.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestDataGenerator.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestDataGenerator.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestDataGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:45:31.608Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCategoryTestFixture.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestFixture.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestFixture.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestFixture.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTestFixture.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwE0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:47:31.341Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCategoryInput.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryInput.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryInput.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryInput.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:55:35.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCategoryOutput.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryOutput.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryOutput.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryOutput.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategoryOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:53:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCategory.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategory.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategory.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategory.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\GetCategory\\GetCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:02:39.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -330,184 +412,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateCategory.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:07:14.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICreateCategory.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:04:17.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateCategoryOutput.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:46:58.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateCategoryInput.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T13:39:43.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FC.Codeflix.Catalog.Application.csproj",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T13:39:15.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUnityOfWork.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\Interfaces\\IUnityOfWork.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\Interfaces\\IUnityOfWork.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\Interfaces\\IUnityOfWork.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\Interfaces\\IUnityOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:54:08.948Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Title": "GetCategoryTest.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTest.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTest.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTest.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA6wB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:50:54.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IRepository.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IRepository.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IRepository.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:46:53.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:14:12.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateCategoryTest.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
-              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
-              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Application\\CreateCategory\\CreateCategoryTest.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:47:38.479Z",
+              "WhenOpened": "2025-05-20T18:35:14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "BaseFixture.cs",
               "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
               "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
               "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
               "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Common\\BaseFixture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:30:58.258Z"
+              "WhenOpened": "2025-05-20T18:29:10.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
+              "Title": "GetCategoryTestFixture.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTestFixture.cs",
+              "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTestFixture.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTestFixture.cs",
+              "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Application\\GetCategory\\GetCategoryTestFixture.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:28:49.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCategoryOutput.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:48:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICreateCategory.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\ICreateCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:44:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryInput.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategoryInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:44:13.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:20:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:19:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CategoryTestFixture.cs",
               "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
               "RelativeDocumentMoniker": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
               "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
               "RelativeToolTip": "FC.Codeflix.Catalog.Tests\\Domain\\Entity\\Category\\CategoryTestFixture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:51:56.932Z"
+              "WhenOpened": "2025-05-07T22:48:20.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AggregateRoot.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\AggregateRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "CreateCategory.cs",
+              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Application\\UseCases\\Category\\CreateCategory\\CreateCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T19:01:40.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\SeedWork\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T19:00:16.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EntityValidationException.cs",
-              "DocumentMoniker": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
-              "RelativeDocumentMoniker": "src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
-              "ToolTip": "D:\\Meus Documentos\\Estudos .NET\\CodeFlix\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
-              "RelativeToolTip": "src\\FC.Codeflix.Catalog.Domain\\Exceptions\\EntityValidationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T20:23:56.416Z"
+              "WhenOpened": "2025-05-07T22:47:14.454Z"
             }
           ]
         },
