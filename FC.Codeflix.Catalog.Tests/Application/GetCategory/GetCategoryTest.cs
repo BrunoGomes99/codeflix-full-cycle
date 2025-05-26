@@ -77,6 +77,8 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.GetCategory
             var task =  async () => await useCase.Handle(input, CancellationToken.None);
 
             // Assert
+            await Assert.ThrowsAsync<NotFoundException>(task);
+
             repositoryMock.Verify(
                 repository => repository.Get(
                     It.IsAny<Guid>(),
@@ -84,8 +86,6 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.GetCategory
                 ),
                 Times.Once
             );
-
-            await Assert.ThrowsAsync<NotFoundException>(task);
         }
     }
 }

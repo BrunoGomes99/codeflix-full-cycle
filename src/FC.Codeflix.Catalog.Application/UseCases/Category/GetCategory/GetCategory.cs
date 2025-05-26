@@ -7,6 +7,8 @@ namespace FC.Codeflix.Catalog.Application.UseCases.Category.GetCategory
     public class GetCategory : IGetCategory
     {
         private readonly ICategoryRepository _categoryRepository;
+        // Aqui não tem necessidade de passar o UnitOfWork como dependência
+        // pois no caso do GetCategory não há mudança de estado do agregado Category no banco de dados.
 
         public GetCategory(ICategoryRepository categoryRepository)
         {

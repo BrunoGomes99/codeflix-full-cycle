@@ -29,5 +29,24 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.GetCategory
             Assert.True(validationResult.IsValid);
             Assert.Empty(validationResult.Errors);
         }
+
+        [Fact(DisplayName = nameof(InvalidWhenEmptyGuidId))]
+        [Trait("Application", "GetCategory - Use Cases")]
+        public void InvalidWhenEmptyGuidId()
+        {
+            // Arrange
+            var invalidInput = new GetCategoryInput(Guid.Empty);
+            var validator = new GetCategoryInputValidator();
+
+            // Act
+            var validationResult = validator.Validate(invalidInput);
+
+            // Assert
+            Assert.NotNull(validationResult);
+            Assert.False(validationResult.IsValid);
+            Assert.Single(validationResult.Errors);
+            Assert.True(validationResult.Errors[0].ErrorMessage.Equals("'Id' must not be empty.") ||
+                        validationResult.Errors[0].ErrorMessage.Equals("'Id' deve ser informado."));
+        }
     }
 }
