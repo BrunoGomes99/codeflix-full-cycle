@@ -1,6 +1,9 @@
 ﻿using Moq;
 using FC.Codeflix.Catalog.Application.UseCases.Category.Common;
 using UseCase = FC.Codeflix.Catalog.Application.UseCases.Category.UpdateCategory;
+using FC.Codeflix.Catalog.Domain.Entity;
+using FC.Codeflix.Catalog.Application.UseCases.Category.UpdateCategory;
+using FC.Codeflix.Catalog.Application.Exceptions;
 
 namespace FC.Codeflix.Catalog.UnitTests.Application.UpdateCategory
 {
@@ -14,21 +17,18 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.UpdateCategory
             _fixture = fixture;
         }
 
-        [Fact(DisplayName = nameof(UpdateCategory))]
+        [Theory(DisplayName = nameof(UpdateCategory))]
         [Trait("Application", "UpdateCategory - Use Cases")]
-        public async Task UpdateCategory()
+        [MemberData(
+            nameof(UpdateCategoryTestDataGenerator.GetCategoriesToUpdate),
+            parameters: 10,
+            MemberType = typeof(UpdateCategoryTestDataGenerator)
+        )]
+        public async Task UpdateCategory(Category exampleCategory, UpdateCategoryInput input)
         {
             // Arrange
             var repositoryMock = _fixture.GetRepositoryMock();
             var unityOfWorkMock = _fixture.GetUnityOfWorkMock();
-
-            var exampleCategory = _fixture.GetExampleCategory();
-            var input = new UseCase.UpdateCategoryInput(
-                exampleCategory.Id,
-                _fixture.GetValidCategoryName(),
-                _fixture.GetValidCategoryDescription(),
-                !exampleCategory.IsActive
-            );
 
             repositoryMock.Setup(r => r.Get(
                 exampleCategory.Id,
@@ -68,6 +68,41 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.UpdateCategory
 
             unityOfWorkMock.Verify(
                 u => u.Commit(
+                    It.IsAny<CancellationToken>()
+                ),
+                Times.Once
+            );
+        }
+
+
+        [Fact(DisplayName = nameof(ThrowWhenCategoryNotFound))]
+        [Trait("Application", "UpdateCategory - Use Cases")]
+        public async Task ThrowWhenCategoryNotFound()
+        {
+            // Arrange
+            var repositoryMock = _fixture.GetRepositoryMock();
+            var unityOfWorkMock = _fixture.GetUnityOfWorkMock();
+            var input = _fixture.GetValidInput();
+
+            repositoryMock.Setup(r => r.Get(
+                input.Id,
+                It.IsAny<CancellationToken>())
+            ).ThrowsAsync(new NotFoundException($"Category {input.Id} not found."));
+
+            var useCase = new UseCase.UpdateCategory(
+                repositoryMock.Object,
+                unityOfWorkMock.Object
+            );
+
+            // Act
+            var task = async () => await useCase.Handle(input, CancellationToken.None);
+
+            // Assert
+            await Assert.ThrowsAsync<NotFoundException>(task);
+
+            repositoryMock.Verify(
+                r => r.Get(
+                    input.Id,
                     It.IsAny<CancellationToken>()
                 ),
                 Times.Once
