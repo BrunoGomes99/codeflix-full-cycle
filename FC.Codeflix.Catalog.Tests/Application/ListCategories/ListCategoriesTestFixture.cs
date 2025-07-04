@@ -1,11 +1,13 @@
-﻿using FC.Codeflix.Catalog.Domain.Entity;
+﻿using FC.Codeflix.Catalog.Application.UseCases.Category.ListCategories;
+using FC.Codeflix.Catalog.Domain.Entity;
 using FC.Codeflix.Catalog.Domain.Repository;
+using FC.Codeflix.Catalog.Domain.SeedWork.SearchableRepository;
 using FC.Codeflix.Catalog.UnitTests.Common;
 using Moq;
 
 namespace FC.Codeflix.Catalog.UnitTests.Application.ListCategory
 {
-    public class ListCategoryTestFixture : BaseFixture
+    public class ListCategoriesTestFixture : BaseFixture
     {
         public string GetValidCategoryName()
         {
@@ -48,12 +50,24 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.ListCategory
             return categories;
         }
 
+        public ListCategoriesInput GetExampleInput()
+        {
+            var random = new Random();
+            return new(
+                page: random.Next(1, 10),
+                perPage: random.Next(15, 100),
+                search: Faker.Commerce.ProductName(),
+                sort: Faker.Commerce.ProductName(),
+                sortBy: SearchOrder.Asc
+            );
+        }
+
         public Mock<ICategoryRepository> GetRepositoryMock()
             => new();        
     }
 
-    [CollectionDefinition(nameof(ListCategoryTestFixture))]
-    public class ListCategoryTestFixtureCollection : ICollectionFixture<ListCategoryTestFixture>
+    [CollectionDefinition(nameof(ListCategoriesTestFixture))]
+    public class ListCategoryTestFixtureCollection : ICollectionFixture<ListCategoriesTestFixture>
     {
     }
 }
