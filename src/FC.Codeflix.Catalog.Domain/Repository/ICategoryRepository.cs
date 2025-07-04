@@ -1,5 +1,6 @@
 ﻿using FC.Codeflix.Catalog.Domain.Entity;
 using FC.Codeflix.Catalog.Domain.SeedWork;
+using FC.Codeflix.Catalog.Domain.SeedWork.SearchableRepository;
 
 namespace FC.Codeflix.Catalog.Domain.Repository
 {
@@ -9,7 +10,7 @@ namespace FC.Codeflix.Catalog.Domain.Repository
     //  - O repositório não deve transparecer operações no banco em si, como queries, qual o tipo de banco está usando etc.
     //  - O ideal é que o repositório pareça apenas uma lista em memória que responsável por persistir os dados
 
-    public interface ICategoryRepository : IGenericRepository<Category>
+    public interface ICategoryRepository : IGenericRepository<Category>, ISearchableRepository<Category>
     {        
     }
 }
