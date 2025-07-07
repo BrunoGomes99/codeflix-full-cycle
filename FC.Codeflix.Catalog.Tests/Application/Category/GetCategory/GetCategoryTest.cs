@@ -1,9 +1,8 @@
 ﻿using FC.Codeflix.Catalog.Application.Exceptions;
-using FC.Codeflix.Catalog.Domain.Exceptions;
 using Moq;
 using UseCase = FC.Codeflix.Catalog.Application.UseCases.Category.GetCategory;
 
-namespace FC.Codeflix.Catalog.UnitTests.Application.GetCategory
+namespace FC.Codeflix.Catalog.UnitTests.Application.Category.GetCategory
 {
     [Collection(nameof(GetCategoryTestFixture))]
     public class GetCategoryTest
@@ -21,7 +20,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.GetCategory
         {
             // Arrange
             var repositoryMock = _fixture.GetRepositoryMock();
-            var exampleCategory = _fixture.GetValidCategory();
+            var exampleCategory = _fixture.GetExampleCategory();
 
             // Aqui, está sendo feito um setup em cima do método Get do repositório,
             // para que, nesse teste, quando o método Get for chamado, e receber como

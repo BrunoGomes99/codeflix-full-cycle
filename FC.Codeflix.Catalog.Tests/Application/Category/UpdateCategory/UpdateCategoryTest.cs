@@ -1,12 +1,12 @@
 ﻿using Moq;
 using FC.Codeflix.Catalog.Application.UseCases.Category.Common;
 using UseCase = FC.Codeflix.Catalog.Application.UseCases.Category.UpdateCategory;
-using FC.Codeflix.Catalog.Domain.Entity;
+using Entity = FC.Codeflix.Catalog.Domain.Entity;
 using FC.Codeflix.Catalog.Application.UseCases.Category.UpdateCategory;
 using FC.Codeflix.Catalog.Application.Exceptions;
 using FC.Codeflix.Catalog.Domain.Exceptions;
 
-namespace FC.Codeflix.Catalog.UnitTests.Application.UpdateCategory
+namespace FC.Codeflix.Catalog.UnitTests.Application.Category.UpdateCategory
 {
     [Collection(nameof(UpdateCategoryTestFixture))]
     public class UpdateCategoryTest
@@ -25,7 +25,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.UpdateCategory
             parameters: 10,
             MemberType = typeof(UpdateCategoryTestDataGenerator)
         )]
-        public async Task UpdateCategory(Category exampleCategory, UpdateCategoryInput input)
+        public async Task UpdateCategory(Entity.Category exampleCategory, UpdateCategoryInput input)
         {
             // Arrange
             var repositoryMock = _fixture.GetRepositoryMock();
@@ -83,7 +83,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.UpdateCategory
             parameters: 10,
             MemberType = typeof(UpdateCategoryTestDataGenerator)
         )]
-        public async Task UpdateCategoryOnlyName(Category exampleCategory, UpdateCategoryInput exampleInput)
+        public async Task UpdateCategoryOnlyName(Entity.Category exampleCategory, UpdateCategoryInput exampleInput)
         {
             // Arrange
             var repositoryMock = _fixture.GetRepositoryMock();
@@ -146,7 +146,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.UpdateCategory
             parameters: 10,
             MemberType = typeof(UpdateCategoryTestDataGenerator)
         )]
-        public async Task UpdateCategoryWithoutProvidingIsActive(Category exampleCategory, UpdateCategoryInput exampleInput)
+        public async Task UpdateCategoryWithoutProvidingIsActive(Entity.Category exampleCategory, UpdateCategoryInput exampleInput)
         {
             // Arrange
             var repositoryMock = _fixture.GetRepositoryMock();

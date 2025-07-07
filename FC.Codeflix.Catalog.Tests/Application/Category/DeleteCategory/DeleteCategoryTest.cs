@@ -2,7 +2,7 @@
 using Moq;
 using FC.Codeflix.Catalog.Application.Exceptions;
 
-namespace FC.Codeflix.Catalog.UnitTests.Application.DeleteCategory
+namespace FC.Codeflix.Catalog.UnitTests.Application.Category.DeleteCategory
 {
     [Collection(nameof(DeleteCategoryTestFixture))]
     public class DeleteCategoryTest
@@ -21,7 +21,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.DeleteCategory
             // Arrange
             var repositoryMock = _fixture.GetRepositoryMock();
             var unityOfWorkMock = _fixture.GetUnityOfWorkMock();
-            var categoryExample = _fixture.GetValidCategory();
+            var categoryExample = _fixture.GetExampleCategory();
 
             // Aqui só preciso fazer o setup pro Get do repository, uma vez que,
             // para deletar, ele primeiro irá chamar o Get.

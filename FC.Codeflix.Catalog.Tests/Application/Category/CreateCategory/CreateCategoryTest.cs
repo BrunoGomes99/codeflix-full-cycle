@@ -1,10 +1,10 @@
 ﻿using FC.Codeflix.Catalog.Application.UseCases.Category.CreateCategory;
-using FC.Codeflix.Catalog.Domain.Entity;
+using Entity = FC.Codeflix.Catalog.Domain.Entity;
 using FC.Codeflix.Catalog.Domain.Exceptions;
 using Moq;
 using UseCases = FC.Codeflix.Catalog.Application.UseCases.Category.CreateCategory;
 
-namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
+namespace FC.Codeflix.Catalog.UnitTests.Application.Category.CreateCategory
 {
     [Collection(nameof(CreateCategoryTestFixture))] // Definição da fixture usada nessa classe de testes
     public class CreateCategoryTest
@@ -49,7 +49,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             // um CancellationToken para o Commit. Ambos também checam se essa chamada só aconteceu 1 vez apenas.
             repositoryMock.Verify(
                 repository => repository.Insert(
-                    It.IsAny<Category>(), 
+                    It.IsAny<Entity.Category>(), 
                     It.IsAny<CancellationToken>()
                 ),
                 Times.Once
@@ -67,7 +67,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             Assert.Equal(input.Description, output.Description);
             Assert.Equal(input.IsActive, output.IsActive);
             Assert.True(output.Id != Guid.Empty);
-            Assert.True(output.CreatedAt != default(DateTime));
+            Assert.True(output.CreatedAt != default);
         }
 
         [Fact(DisplayName = nameof(CreateCategoryWithOnlyNameAndDescription))]
@@ -94,7 +94,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             // Assert
             repositoryMock.Verify(
                 repository => repository.Insert(
-                    It.IsAny<Category>(),
+                    It.IsAny<Entity.Category>(),
                     It.IsAny<CancellationToken>()
                 ),
                 Times.Once
@@ -112,7 +112,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             Assert.Equal(input.Description, output.Description);
             Assert.True(output.IsActive);
             Assert.True(output.Id != Guid.Empty);
-            Assert.True(output.CreatedAt != default(DateTime));
+            Assert.True(output.CreatedAt != default);
         }
 
         [Fact(DisplayName = nameof(CreateCategoryWithOnlyName))]
@@ -138,7 +138,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             // Assert
             repositoryMock.Verify(
                 repository => repository.Insert(
-                    It.IsAny<Category>(),
+                    It.IsAny<Entity.Category>(),
                     It.IsAny<CancellationToken>()
                 ),
                 Times.Once
@@ -156,7 +156,7 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.CreateCategory
             Assert.Equal(string.Empty, output.Description);
             Assert.True(output.IsActive);
             Assert.True(output.Id != Guid.Empty);
-            Assert.True(output.CreatedAt != default(DateTime));
+            Assert.True(output.CreatedAt != default);
         }
 
         [Theory(DisplayName = nameof(ThrowWhenCantInstantiateCategory))]

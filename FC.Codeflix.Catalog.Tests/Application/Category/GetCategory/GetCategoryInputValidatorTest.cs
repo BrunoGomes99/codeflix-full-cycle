@@ -1,24 +1,25 @@
-﻿using FC.Codeflix.Catalog.Application.UseCases.Category.DeleteCategory;
+﻿using FC.Codeflix.Catalog.Application.UseCases.Category.GetCategory;
+using FC.Codeflix.Catalog.Domain.Entity;
 
-namespace FC.Codeflix.Catalog.UnitTests.Application.DeleteCategory
+namespace FC.Codeflix.Catalog.UnitTests.Application.Category.GetCategory
 {
-    [Collection(nameof(DeleteCategoryTestFixture))]
-    public class DeleteCategoryInputValidatorTest
+    [Collection(nameof(GetCategoryTestFixture))]
+    public class GetCategoryInputValidatorTest
     {
-        private readonly DeleteCategoryTestFixture _fixture;
+        private readonly GetCategoryTestFixture _fixture;
 
-        public DeleteCategoryInputValidatorTest(DeleteCategoryTestFixture fixture)
+        public GetCategoryInputValidatorTest(GetCategoryTestFixture fixture)
         {
             _fixture = fixture;
         }
 
         [Fact(DisplayName = nameof(ValidationOk))]
-        [Trait("Application", "DeleteCategory - Use Cases")]
+        [Trait("Application", "GetCategory - Use Cases")]
         public void ValidationOk()
         {
             // Arrange
-            var validInput = new DeleteCategoryInput(Guid.NewGuid());
-            var validator = new DeleteCategoryInputValidator();
+            var validInput = new GetCategoryInput(Guid.NewGuid());
+            var validator = new GetCategoryInputValidator();
 
             // Act
             var validationResult = validator.Validate(validInput);
@@ -30,12 +31,12 @@ namespace FC.Codeflix.Catalog.UnitTests.Application.DeleteCategory
         }
 
         [Fact(DisplayName = nameof(InvalidWhenEmptyGuidId))]
-        [Trait("Application", "DeleteCategory - Use Cases")]
+        [Trait("Application", "GetCategory - Use Cases")]
         public void InvalidWhenEmptyGuidId()
         {
             // Arrange
-            var invalidInput = new DeleteCategoryInput(Guid.Empty);
-            var validator = new DeleteCategoryInputValidator();
+            var invalidInput = new GetCategoryInput(Guid.Empty);
+            var validator = new GetCategoryInputValidator();
 
             // Act
             var validationResult = validator.Validate(invalidInput);
